@@ -6557,6 +6557,33 @@
    "last_seen": "2026-11-13",
    "first_seen": "2026-11-13",
    "alt_urls": []
+  },
+  "wttj-babf80e7-4253-4e38-b5ac-44213acdaa85": {
+   "id": "wttj-babf80e7-4253-4e38-b5ac-44213acdaa85",
+   "source": "WTTJ",
+   "title": "Associate Consultant (m/f/d) - Stage de césure",
+   "company": "Simon-Kucher",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/simon-kucher-partners/jobs/associate-consultant-m-f-d-stage-de-cesure_paris_SIMON_ko01Xw2",
+   "published": "2026-11-13",
+   "contract": "internship",
+   "remote": "unknown",
+   "company_size": "150",
+   "score": 40,
+   "why": [
+    "format : stage, alternance",
+    "profil : pricing, école de commerce, conseil, consulting"
+   ],
+   "formats": [
+    "internship",
+    "alternance"
+   ],
+   "last_seen": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "alt_urls": []
   }
  },
  "runs": [
@@ -6574,6 +6601,18 @@
    "raw": 2774,
    "kept": 744,
    "new": 58,
+   "sources": {
+    "wttj": 1574,
+    "linkedin": 1200,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-13 17:46 UTC",
+   "raw": 2774,
+   "kept": 744,
+   "new": 1,
    "sources": {
     "wttj": 1574,
     "linkedin": 1200,
