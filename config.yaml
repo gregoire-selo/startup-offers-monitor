@@ -1,0 +1,199 @@
+# ─────────────────────────────────────────────────────────────
+# Veille offres startup — Grégoire
+# Cible : Founder/CEO Associate, Chief of Staff, BizOps, Strategy & Ops…
+# Format : freelance ~3,5 j/sem OU stage alterné, janvier → juin 2027
+# Zones : Paris / IDF + full remote France
+# Tout est modifiable ici sans toucher au code.
+# ─────────────────────────────────────────────────────────────
+
+# Requêtes envoyées à Welcome to the Jungle et LinkedIn
+queries:
+  - founder associate
+  - founder's associate
+  - CEO associate
+  - CEO office
+  - chief of staff
+  - bras droit CEO
+  - business associate
+  - strategy operations
+  - bizops
+  - business operations
+  - chargé de mission stratégie
+  - stratégie startup stage
+  - corporate development
+  - assistant CEO
+  - strategy analyst
+
+# Localisation
+locations:
+  linkedin: ["Paris, Île-de-France, France", "France"]   # "France" + filtre remote
+  keep_cities: [paris, île-de-france, ile-de-france, boulogne, issy, levallois, neuilly, puteaux, la défense, la defense, saint-ouen, montreuil, clichy, courbevoie, vincennes, saint-denis, nanterre]
+  keep_remote: true          # garde les offres full remote basées en France
+
+# Fenêtre de fraîcheur (jours) pour LinkedIn / WTTJ
+max_age_days: 21
+
+# Score minimal pour apparaître sur le dashboard
+min_score: 25
+# Score minimal pour une notif Telegram (si configurée)
+notify_score: 55
+# Après combien de jours sans réapparaître une offre est marquée "probablement expirée"
+stale_after_days: 14
+
+scoring:
+  # Mots dans l'INTITULÉ du poste
+  title_strong:        # +40
+    - founder associate
+    - founder's associate
+    - founders associate
+    - founder associate
+    - ceo associate
+    - associate to the ceo
+    - ceo office
+    - office of the ceo
+    - chief of staff
+    - bras droit
+    - assistant ceo
+    - assistant du ceo
+    - assistant(e) ceo
+    - business associate
+    - strategy & operations
+    - strategy and operations
+    - strategy & ops
+    - bizops
+    - biz ops
+    - business operations
+    - founder's office
+    - founders office
+  title_medium:        # +20
+    - strategy
+    - stratégie
+    - strategie
+    - operations
+    - opérations
+    - corporate development
+    - corp dev
+    - business analyst
+    - chargé de mission
+    - chargée de mission
+    - chargé·e de mission
+    - program manager
+    - project manager
+    - chef de projet
+    - special projects
+    - projets stratégiques
+    - generalist
+    - généraliste
+    - expansion
+    - launch
+    - venture
+  # Format de contrat (cherché dans tout le texte de l'offre)
+  contract:
+    internship: 15     # stage / internship
+    freelance: 20      # freelance / indépendant / mission
+    part_time: 15      # temps partiel / part-time / 3 jours / 4 jours
+    alternance: 5      # alternance (attention : souvent 12-24 mois)
+  # Disponibilité / dates qui collent
+  timing_bonus: 10
+  timing_terms:
+    - janvier 2027
+    - january 2027
+    - jan 2027
+    - début 2027
+    - early 2027
+    - q1 2027
+    - février 2027
+    - february 2027
+    - dès que possible
+    - asap
+    - immédiatement
+  timing_penalty: -10
+  timing_bad_terms:
+    - juillet 2027
+    - july 2027
+    - septembre 2027
+    - september 2027
+  # Recoupe ton profil (strat, veille, automatisation, IA, études de marché)
+  profile_bonus_each: 5
+  profile_bonus_cap: 20
+  profile_terms:
+    - veille
+    - competitive intelligence
+    - market research
+    - étude de marché
+    - études de marché
+    - benchmark
+    - automatisation
+    - automation
+    - no-code
+    - python
+    - llm
+    - intelligence artificielle
+    - business case
+    - fundraising
+    - levée de fonds
+    - board
+    - okr
+    - pricing
+    - partenariats
+    - partnerships
+    - école de commerce
+    - business school
+    - conseil
+    - consulting
+  # Signaux startup
+  startup_bonus: 5
+  startup_terms: [startup, start-up, scale-up, scaleup, seed, série a, series a, série b, series b, yc, station f]
+  # Pénalités sur l'INTITULÉ
+  title_negative:      # -60 (hors cible)
+    - engineer
+    - ingénieur
+    - ingenieur
+    - developer
+    - développeur
+    - developpeur
+    - devops
+    - data scientist
+    - designer
+    - comptable
+    - accountant
+    - sales development
+    - sdr
+    - bdr
+    - account executive
+    - customer success
+    - support
+    - recruiter
+    - recruteur
+    - talent acquisition
+    - juriste
+    - legal
+    - community manager
+    - graphiste
+    - vendeur
+  title_seniority:     # -40 sauf si "intern/stage/stagiaire/junior" dans le titre
+    - senior
+    - lead
+    - head of
+    - director
+    - directeur
+    - directrice
+    - vp
+    - principal
+    - manager
+  # Contrats qui ne collent pas (si AUCUN format compatible n'est détecté)
+  cdi_only_penalty: -25
+
+# Pages carrières (ATS) de startups ciblées — ajoute les tiennes.
+# Le slug est la partie de l'URL : jobs.lever.co/<slug>, boards.greenhouse.io/<slug>, jobs.ashbyhq.com/<slug>
+# Un slug invalide est simplement signalé dans le log, il ne casse rien.
+ats:
+  lever:
+    - mistral
+    - qonto
+  greenhouse: []
+  ashby: []
+
+# Flux RSS en plus (ex. Google Alerts en mode "Flux RSS", ou n'importe quel flux d'offres)
+rss: []
+#  - https://www.google.com/alerts/feeds/XXXX/YYYY

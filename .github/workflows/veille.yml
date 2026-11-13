@@ -1,0 +1,40 @@
+name: Veille offres startup
+
+on:
+  schedule:
+    - cron: "0 6 * * *"    # ~7h Paris
+    - cron: "0 16 * * *"   # ~17h Paris
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: "Sources (wttj,linkedin,ats,rss)"
+        default: "wttj,linkedin,ats,rss"
+
+permissions:
+  contents: write
+
+concurrency: veille
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Scanner les offres
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m monitor.run --sources "${{ github.event.inputs.sources || 'wttj,linkedin,ats,rss' }}"
+      - name: Commit des résultats
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add data/offers.json docs/index.html
+          git diff --cached --quiet || git commit -m "Veille $(date -u +'%Y-%m-%d %H:%M')"
+          git push
