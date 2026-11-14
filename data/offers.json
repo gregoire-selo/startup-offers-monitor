@@ -736,7 +736,7 @@
    "source": "WTTJ",
    "title": "VC Associate Europe / Benelux focus",
    "company": "XAnge",
-   "location": "Brussels, Paris",
+   "location": "Paris, Brussels",
    "countries": [
     "BE",
     "FR"
@@ -4306,7 +4306,7 @@
     "FR"
    ],
    "url": "https://www.welcometothejungle.com/fr/companies/dedale-intelligence/jobs/end-of-study-investment-analyst-intern-jan-2026_paris",
-   "published": "2026-11-06",
+   "published": "2026-11-14",
    "contract": "internship",
    "remote": "punctual",
    "company_size": "250",
@@ -6931,6 +6931,18 @@
    "new": 12,
    "sources": {
     "wttj": 1570,
+    "linkedin": 1200,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-14 20:14 UTC",
+   "raw": 2769,
+   "kept": 743,
+   "new": 0,
+   "sources": {
+    "wttj": 1569,
     "linkedin": 1200,
     "ats": 0,
     "rss": 0
