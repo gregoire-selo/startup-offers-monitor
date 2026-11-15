@@ -1699,7 +1699,7 @@
     "FR"
    ],
    "url": "https://www.welcometothejungle.com/fr/companies/vocca/jobs/lead-revops-60-80k-bspce_paris",
-   "published": "2026-11-03",
+   "published": "2026-11-15",
    "contract": "full_time",
    "remote": "partial",
    "company_size": "25",
@@ -1959,7 +1959,7 @@
     "FR"
    ],
    "url": "https://www.welcometothejungle.com/fr/companies/beloy/jobs/alternant-finance_paris",
-   "published": "2026-11-05",
+   "published": "2026-11-15",
    "contract": "apprenticeship",
    "remote": "punctual",
    "company_size": "30",
@@ -5340,7 +5340,7 @@
    "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-h-f-at-leonar-4487989854",
    "published": "2026-11-10",
    "contract": "Temporaire",
-   "remote": "",
+   "remote": "fulltime",
    "company_size": "",
    "score": 40,
    "why": [
@@ -6888,6 +6888,56 @@
    "last_seen": "2026-11-15",
    "first_seen": "2026-11-14",
    "alt_urls": []
+  },
+  "wttj-8e196b16-38b0-4054-828e-da4fdced4b46": {
+   "id": "wttj-8e196b16-38b0-4054-828e-da4fdced4b46",
+   "source": "WTTJ",
+   "title": "Bras droit Cofondateur/ Co-CEO (Sales & Marketing)",
+   "company": "Piloc",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/piloc/jobs/bras-droit-cofondateur-co-ceo-sales-marketing_paris",
+   "published": "2026-11-15",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "18",
+   "score": 80,
+   "why": [
+    "poste cible (bras droit)",
+    "format : stage",
+    "profil : veille, automatisation, intelligence artificielle, conseil"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-15",
+   "first_seen": "2026-11-15",
+   "alt_urls": []
+  },
+  "li-4490738113": {
+   "id": "li-4490738113",
+   "source": "LinkedIn",
+   "title": "Chief of Staff H/F",
+   "company": "SNV CONNECT",
+   "location": "Ville de Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-h-f-4490738113",
+   "published": "2026-11-15",
+   "contract": "Temporaire",
+   "remote": "",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste cible (chief of staff)"
+   ],
+   "formats": [],
+   "last_seen": "2026-11-15",
+   "first_seen": "2026-11-15",
+   "alt_urls": [
+    "https://fr.linkedin.com/jobs/view/chief-of-staff-h-f-at-snv-connect-4491251694"
+   ]
   }
  },
  "runs": [
@@ -6955,6 +7005,18 @@
    "new": 0,
    "sources": {
     "wttj": 1573,
+    "linkedin": 1200,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-15 20:39 UTC",
+   "raw": 2775,
+   "kept": 729,
+   "new": 2,
+   "sources": {
+    "wttj": 1575,
     "linkedin": 1200,
     "ats": 0,
     "rss": 0
