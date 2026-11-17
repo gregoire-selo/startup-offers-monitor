@@ -1325,7 +1325,7 @@
    "source": "WTTJ",
    "title": "Stage - Assistant Chef de Projet Marketing",
    "company": "Flying for you",
-   "location": "Paris, Puteaux",
+   "location": "Puteaux, Paris",
    "countries": [
     "FR"
    ],
@@ -5771,7 +5771,7 @@
    "url": "https://fr.linkedin.com/jobs/view/associate-business-consultant-entry-level-life-sciences-consulting-at-veeva-systems-4479327998",
    "published": "2026-11-06",
    "contract": "Freelance / contrat",
-   "remote": "",
+   "remote": "fulltime",
    "company_size": "",
    "score": 25,
    "why": [
@@ -5840,7 +5840,7 @@
    "url": "https://fr.linkedin.com/jobs/view/senior-strategy-operations-at-pennylane-4476790861",
    "published": "2026-10-29",
    "contract": "Temporaire",
-   "remote": "",
+   "remote": "fulltime",
    "company_size": "",
    "score": 25,
    "why": [
@@ -5998,7 +5998,7 @@
    "url": "https://fr.linkedin.com/jobs/view/responsable-op%C3%A9rations-optimisation-des-processus-assurance-h-f-at-mondassur-4479539956",
    "published": "2026-11-09",
    "contract": "Freelance / contrat",
-   "remote": "fulltime",
+   "remote": "",
    "company_size": "",
    "score": 40,
    "why": [
@@ -6128,7 +6128,7 @@
    "formats": [
     "freelance"
    ],
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "first_seen": "2026-11-13",
    "alt_urls": []
   },
@@ -9693,6 +9693,296 @@
    "last_seen": "2026-11-17",
    "first_seen": "2026-11-17",
    "alt_urls": []
+  },
+  "wttj-6028e4e6-1956-4757-8355-c8143633cb18": {
+   "id": "wttj-6028e4e6-1956-4757-8355-c8143633cb18",
+   "source": "WTTJ",
+   "title": "Bras Droit CEO (Ex-BCG) - Stage Fin d'études",
+   "company": "Better World",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/better-world-1/jobs/bras-droit-du-ceo_paris",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "no",
+   "company_size": "15",
+   "score": 70,
+   "why": [
+    "poste cible (bras droit)",
+    "format : stage",
+    "profil : intelligence artificielle, conseil"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "wttj-1930ce58-9987-46ef-87d5-8a5ec37ff511": {
+   "id": "wttj-1930ce58-9987-46ef-87d5-8a5ec37ff511",
+   "source": "WTTJ",
+   "title": "Business Analyst - Stage de Fin d'études",
+   "company": "Better World",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/better-world-1/jobs/business-analyst-developer_paris",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "15",
+   "score": 50,
+   "why": [
+    "poste proche (business analyst)",
+    "format : stage",
+    "profil : intelligence artificielle, pricing"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "wttj-bd94e83a-0efd-4603-9219-dbc5c17f8eca": {
+   "id": "wttj-bd94e83a-0efd-4603-9219-dbc5c17f8eca",
+   "source": "WTTJ",
+   "title": "Assistant·e Morning Manager (Business & Opérations) - Stage",
+   "company": "Morning",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/morning/jobs/business-manager-stage_paris",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "370",
+   "score": 60,
+   "why": [
+    "poste proche (operations)",
+    "format : stage, temps partiel",
+    "profil : partenariats, école de commerce"
+   ],
+   "formats": [
+    "internship",
+    "part_time"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "wttj-70996121-0a1d-424b-b770-b4677e32f751": {
+   "id": "wttj-70996121-0a1d-424b-b770-b4677e32f751",
+   "source": "WTTJ",
+   "title": "Consultant AMOA / Business Analyst confirmé sur les Moyens de paiement / Instant Payment H/F",
+   "company": "Open",
+   "location": "Levallois-Perret",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/open/jobs/consultant-amoa-business-analyst-confirme-sur-les-moyens-de-paiement-instant-payment-h-f_levallois-perret_OPEN_gkkb6jx",
+   "published": "2026-11-17",
+   "contract": "full_time",
+   "remote": "partial",
+   "company_size": "4000",
+   "score": 50,
+   "why": [
+    "poste proche (business analyst)",
+    "format : temps partiel",
+    "profil : benchmark, conseil, consulting"
+   ],
+   "formats": [
+    "part_time"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "wttj-13eb5dac-bf31-41a5-a737-830bc6f46d7d": {
+   "id": "wttj-13eb5dac-bf31-41a5-a737-830bc6f46d7d",
+   "source": "WTTJ",
+   "title": "Data Operations Analyst (Stage de césure / fin d’étude - pré-embauche)",
+   "company": "Better World",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/better-world-1/jobs/data-operations-analyst-stage-de-cesure-fin-d-etude-pre-embauche_paris",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "15",
+   "score": 50,
+   "why": [
+    "poste proche (operations)",
+    "format : stage",
+    "profil : automatisation, python, intelligence artificielle"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "wttj-5fbc71da-af43-4009-add3-b82f37a98e9d": {
+   "id": "wttj-5fbc71da-af43-4009-add3-b82f37a98e9d",
+   "source": "WTTJ",
+   "title": "STAGE 6 MOIS - À partir de janvier 2027 - Assistant(e) Chef de Produit International Lancôme - Niveau BAC +2/3 (Licence) - 1300€/mois",
+   "company": "L'Oréal Groupe",
+   "location": "Levallois-Perret",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/l-oreal/jobs/stage-6-mois-a-partir-de-janvier-2027-assistant-chef-de-produit-international-lancome-niveau-bac-2-3-licence-1300-mois_levallois-perret",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "partial",
+   "company_size": "90000",
+   "score": 40,
+   "why": [
+    "format : stage",
+    "démarrage début 2027 / ASAP",
+    "profil : veille, partnerships, école de commerce"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "wttj-52099e1d-f481-42b5-9596-f1f4b6136d78": {
+   "id": "wttj-52099e1d-f481-42b5-9596-f1f4b6136d78",
+   "source": "WTTJ",
+   "title": "Stage — Marketing Digital, SEO & GEO",
+   "company": "Wiztrust",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/wiztrust/jobs/stage-marketing-digital-seo-geo_paris",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "",
+   "score": 30,
+   "why": [
+    "format : stage, alternance",
+    "profil : llm"
+   ],
+   "formats": [
+    "internship",
+    "alternance"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "wttj-3ed5e89a-c4c4-4e80-997f-90efcac621b8": {
+   "id": "wttj-3ed5e89a-c4c4-4e80-997f-90efcac621b8",
+   "source": "WTTJ",
+   "title": "[SFR] Stagiaire - Chef de Marché (H/F)",
+   "company": "SFR - Altice France",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/altice-france/jobs/sfr-stagiaire-chef-de-marche-h-f_paris",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "unknown",
+   "company_size": "8000",
+   "score": 35,
+   "why": [
+    "format : stage",
+    "profil : études de marché, pricing, conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "wttj-77069ef9-2084-4107-ad38-2f609f97b578": {
+   "id": "wttj-77069ef9-2084-4107-ad38-2f609f97b578",
+   "source": "WTTJ",
+   "title": "Stage Chargé(e) d'études de marché et Business Insights",
+   "company": "AstraZeneca",
+   "location": "Courbevoie",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/astrazeneca/jobs/stage-charge-d-etudes-de-marche-et-business-insights_courbevoie",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "no",
+   "company_size": "2000",
+   "score": 25,
+   "why": [
+    "format : stage",
+    "profil : études de marché, business case"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "li-4485469456": {
+   "id": "li-4485469456",
+   "source": "LinkedIn",
+   "title": "Business Development Representative DACH (m/w/d) – Industrial SaaS Scale-up",
+   "company": "Rocket4Sales",
+   "location": "Ville de Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/business-development-representative-dach-m-w-d-%E2%80%93-industrial-saas-scale-up-at-rocket4sales-4485469456",
+   "published": "2026-11-16",
+   "contract": "Freelance / contrat",
+   "remote": "",
+   "company_size": "",
+   "score": 25,
+   "why": [
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
+  },
+  "li-4296080452": {
+   "id": "li-4296080452",
+   "source": "LinkedIn",
+   "title": "Strategy Consulting Intern TMT (m/f/d)",
+   "company": "Altman Solon",
+   "location": "Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/strategy-consulting-intern-tmt-m-f-d-at-altman-solon-4296080452",
+   "published": "2026-11-07",
+   "contract": "Temporaire",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste proche (strategy)",
+    "format : stage",
+    "profil : consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "alt_urls": []
   }
  },
  "runs": [
@@ -9808,6 +10098,18 @@
    "new": 27,
    "sources": {
     "wttj": 1631,
+    "linkedin": 1200,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-17 23:14 UTC",
+   "raw": 2829,
+   "kept": 792,
+   "new": 11,
+   "sources": {
+    "wttj": 1629,
     "linkedin": 1200,
     "ats": 0,
     "rss": 0
