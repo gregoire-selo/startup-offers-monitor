@@ -737,7 +737,7 @@
    "source": "WTTJ",
    "title": "VC Associate Europe / Benelux focus",
    "company": "XAnge",
-   "location": "Paris, Brussels",
+   "location": "Brussels, Paris",
    "countries": [
     "BE",
     "FR"
@@ -1724,7 +1724,7 @@
     "FR"
    ],
    "url": "https://www.welcometothejungle.com/fr/companies/pony1/jobs/operations-manager-performance-safety_paris",
-   "published": "2026-10-27",
+   "published": "2026-11-19",
    "contract": "internship",
    "remote": "no",
    "company_size": "50",
@@ -1736,7 +1736,7 @@
    "formats": [
     "internship"
    ],
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-19",
    "first_seen": "2026-11-13",
    "alt_urls": []
   },
@@ -3411,10 +3411,10 @@
    "contract": "full_time",
    "remote": "partial",
    "company_size": "551",
-   "score": 30,
+   "score": 35,
    "why": [
     "poste proche (chargé de mission)",
-    "profil : école de commerce, conseil"
+    "profil : école de commerce, conseil, consulting"
    ],
    "formats": [],
    "last_seen": "2026-11-19",
@@ -4651,7 +4651,9 @@
    ],
    "last_seen": "2026-11-19",
    "first_seen": "2026-11-13",
-   "alt_urls": []
+   "alt_urls": [
+    "https://fr.linkedin.com/jobs/view/consultant-exp%C3%A9riment%C3%A9-strategy-private-equity-f-h-at-deloitte-4485462786"
+   ]
   },
   "wttj-6f326da6-a3b6-4e04-90f6-d14f0c9f878f": {
    "id": "wttj-6f326da6-a3b6-4e04-90f6-d14f0c9f878f",
@@ -5273,16 +5275,16 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-%E2%80%93-strategy-product-operations-cdi-at-incom-4488148455",
    "published": "2026-11-06",
-   "contract": "Freelance / contrat",
+   "contract": "Temps partiel",
    "remote": "",
    "company_size": "",
-   "score": 60,
+   "score": 55,
    "why": [
     "poste cible (chief of staff)",
-    "format : freelance"
+    "format : temps partiel"
    ],
    "formats": [
-    "freelance"
+    "part_time"
    ],
    "last_seen": "2026-11-19",
    "first_seen": "2026-11-13",
@@ -6853,7 +6855,7 @@
    "url": "https://fr.linkedin.com/jobs/view/growth-strategy-data-analyst-intern-m-f-n-at-hellofresh-4384325686",
    "published": "2026-11-02",
    "contract": "Temporaire",
-   "remote": "",
+   "remote": "fulltime",
    "company_size": "",
    "score": 35,
    "why": [
@@ -7932,11 +7934,11 @@
    "contract": "internship",
    "remote": "partial",
    "company_size": "90000",
-   "score": 30,
+   "score": 40,
    "why": [
     "format : stage",
     "démarrage début 2027 / ASAP",
-    "profil : partnerships"
+    "profil : partnerships, conseil, consulting"
    ],
    "formats": [
     "internship"
@@ -9970,7 +9972,7 @@
    "url": "https://fr.linkedin.com/jobs/view/strategy-consulting-intern-tmt-m-f-d-at-altman-solon-4296080452",
    "published": "2026-11-07",
    "contract": "Temporaire",
-   "remote": "fulltime",
+   "remote": "",
    "company_size": "",
    "score": 40,
    "why": [
@@ -9981,7 +9983,7 @@
    "formats": [
     "internship"
    ],
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "first_seen": "2026-11-17",
    "alt_urls": []
   },
@@ -10049,10 +10051,10 @@
    "contract": "internship",
    "remote": "punctual",
    "company_size": "150",
-   "score": 50,
+   "score": 55,
    "why": [
     "format : stage, temps partiel",
-    "profil : école de commerce, conseil, consulting"
+    "profil : veille, école de commerce, conseil, consulting"
    ],
    "formats": [
     "internship",
@@ -11014,7 +11016,7 @@
   "wttj-2e589eee-8aae-4b34-8618-e2ad61f3794e": {
    "id": "wttj-2e589eee-8aae-4b34-8618-e2ad61f3794e",
    "source": "WTTJ",
-   "title": "Consultant(e) junior  en charge des études marketing & finance (H/F) - Stage",
+   "title": "Consultant(e) junior en charge des études marketing & finance (H/F) - Stage",
    "company": "Eres",
    "location": "Paris",
    "countries": [
@@ -11283,6 +11285,476 @@
    "last_seen": "2026-11-19",
    "first_seen": "2026-11-19",
    "alt_urls": []
+  },
+  "wttj-524d9a78-a30d-441a-b91f-a64f87bb1706": {
+   "id": "wttj-524d9a78-a30d-441a-b91f-a64f87bb1706",
+   "source": "WTTJ",
+   "title": "Stagiaire bras droit CEO",
+   "company": "Coda",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/coda-school/jobs/64b5c5ec-50fc-4d3d-b607-fcbf63a417e4",
+   "published": "2026-11-18",
+   "contract": "internship",
+   "remote": "partial",
+   "company_size": "25",
+   "score": 60,
+   "why": [
+    "poste cible (bras droit)",
+    "format : stage",
+    "profil : intelligence artificielle"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-c2d89d41-7efe-4093-8282-1577f61415e3": {
+   "id": "wttj-c2d89d41-7efe-4093-8282-1577f61415e3",
+   "source": "WTTJ",
+   "title": "Strategy & Operations - Bras droit Directeur Commercial",
+   "company": "Climb",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/climb/jobs/bras-droit-directeur-commercial_paris",
+   "published": "2026-11-19",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "30",
+   "score": 65,
+   "why": [
+    "poste cible (bras droit)",
+    "format : stage",
+    "profil : automatisation, no-code, école de commerce, conseil",
+    "intitulé plutôt senior"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": [
+    "https://fr.linkedin.com/jobs/view/strategy-operations-bras-droit-directeur-commercial-at-climb-4492180949"
+   ]
+  },
+  "wttj-90bdfdcc-1b46-4577-913a-4c45bc0028fc": {
+   "id": "wttj-90bdfdcc-1b46-4577-913a-4c45bc0028fc",
+   "source": "WTTJ",
+   "title": "Consultant(e) stagiaire (6 mois) - Transformation Stratégique",
+   "company": "iQo",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/iqo/jobs/consultant-stagiaire-6-mois-transformation-strategique_paris_IQO_WDROw1G",
+   "published": "2026-11-19",
+   "contract": "internship",
+   "remote": "unknown",
+   "company_size": "120",
+   "score": 30,
+   "why": [
+    "format : stage, alternance",
+    "profil : conseil, consulting"
+   ],
+   "formats": [
+    "internship",
+    "alternance"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-45c3faf9-dbe3-4bb7-939d-60a9a6e07667": {
+   "id": "wttj-45c3faf9-dbe3-4bb7-939d-60a9a6e07667",
+   "source": "WTTJ",
+   "title": "Customer Experience Operations Specialist (H/F)",
+   "company": "Inqom",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/inqom/jobs/customer-experience-operations-specialist-h-f_paris",
+   "published": "2026-11-19",
+   "contract": "full_time",
+   "remote": "fulltime",
+   "company_size": "112",
+   "score": 30,
+   "why": [
+    "poste proche (operations)",
+    "profil : intelligence artificielle, board"
+   ],
+   "formats": [],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-e1d8941d-85d4-417e-be4c-4c9439d450be": {
+   "id": "wttj-e1d8941d-85d4-417e-be4c-4c9439d450be",
+   "source": "WTTJ",
+   "title": "STAGE - Chargé de mission RSE F/H",
+   "company": "La Banque Postale",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-charge-de-mission-rse-f-h_paris_LBP_K6aOpXj",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "unknown",
+   "company_size": "2739",
+   "score": 45,
+   "why": [
+    "poste proche (chargé de mission)",
+    "format : stage",
+    "profil : conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-a27e9ad2-509a-47c2-aed9-092b461e1008": {
+   "id": "wttj-a27e9ad2-509a-47c2-aed9-092b461e1008",
+   "source": "WTTJ",
+   "title": "Alternance (1 an) - Chargé de mission décarbonation F/H - Paris",
+   "company": "Groupe BPCE",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/groupe-bpce/jobs/alternance-1-an-charge-de-mission-decarbonation-f-h-paris_paris_GB_ONLYYQ0",
+   "published": "2026-11-18",
+   "contract": "apprenticeship",
+   "remote": "no",
+   "company_size": "103000",
+   "score": 45,
+   "why": [
+    "poste proche (chargé de mission)",
+    "format : alternance",
+    "profil : intelligence artificielle, école de commerce, conseil, consulting"
+   ],
+   "formats": [
+    "alternance"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-f3385632-fb29-408d-8492-f2f4f89201af": {
+   "id": "wttj-f3385632-fb29-408d-8492-f2f4f89201af",
+   "source": "WTTJ",
+   "title": "Consultant·e junior Stratégie & Innovation - Secteurs Énergie, Industrie & Environnement",
+   "company": "Impulse Partners",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/impulse-partners/jobs/consultant-e-junior-strategie-innovation-secteurs-energie-industrie-environnement_paris",
+   "published": "2026-11-19",
+   "contract": "full_time",
+   "remote": "partial",
+   "company_size": "35",
+   "score": 65,
+   "why": [
+    "poste proche (stratégie)",
+    "format : stage, alternance",
+    "profil : études de marché, benchmark, intelligence artificielle, école de commerce"
+   ],
+   "formats": [
+    "internship",
+    "alternance"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-f72a7208-781d-4ae1-a4f4-a4f0924a3690": {
+   "id": "wttj-f72a7208-781d-4ae1-a4f4-a4f0924a3690",
+   "source": "WTTJ",
+   "title": "STAGE - Assistant Chargé de mission QVCT F/H",
+   "company": "La Banque Postale",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-assistant-charge-de-mission-qvct-f-h_paris",
+   "published": "2026-11-09",
+   "contract": "internship",
+   "remote": "unknown",
+   "company_size": "2739",
+   "score": 50,
+   "why": [
+    "poste proche (chargé de mission)",
+    "format : stage",
+    "profil : veille, conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-cc6c8e1a-130f-4952-8335-f141a0172b8d": {
+   "id": "wttj-cc6c8e1a-130f-4952-8335-f141a0172b8d",
+   "source": "WTTJ",
+   "title": "Stage - Assistant(e) chargé(e) de projets RSE (H/F)",
+   "company": "Ligue de Football Professionnel",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/ligue-de-football-professionnel/jobs/lfp-offre-de-stage_paris",
+   "published": "2026-10-30",
+   "contract": "internship",
+   "remote": "no",
+   "company_size": "135",
+   "score": 25,
+   "why": [
+    "format : stage",
+    "profil : conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-b9d3b47b-e4c4-4653-b1df-595e6c18b210": {
+   "id": "wttj-b9d3b47b-e4c4-4653-b1df-595e6c18b210",
+   "source": "WTTJ",
+   "title": "Stagiaire – Chargé(e) de Projet RSE (H/F)",
+   "company": "UltraEdge",
+   "location": "Courbevoie",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/ultraedge/jobs/stagiaire-charge-de-projet-rse-h-f_courbevoie",
+   "published": "2026-11-16",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "98",
+   "score": 25,
+   "why": [
+    "format : stage",
+    "profil : conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-fb73811b-9dd2-4a2f-976a-0f1b1562e212": {
+   "id": "wttj-fb73811b-9dd2-4a2f-976a-0f1b1562e212",
+   "source": "WTTJ",
+   "title": "Consultant.e junior Stratégie & Innovation - secteur public",
+   "company": "Impulse Partners",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/impulse-partners/jobs/consultant-e-junior-strategie-innovation-secteur-public_paris",
+   "published": "2026-11-19",
+   "contract": "full_time",
+   "remote": "partial",
+   "company_size": "35",
+   "score": 60,
+   "why": [
+    "poste proche (stratégie)",
+    "format : stage",
+    "profil : benchmark, intelligence artificielle, conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-c0f8150a-695a-4d5e-8852-96064133ddb2": {
+   "id": "wttj-c0f8150a-695a-4d5e-8852-96064133ddb2",
+   "source": "WTTJ",
+   "title": "STAGE Analyste Venture Capital à impact  H/F",
+   "company": "ARKÉA CAPITAL",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/arkea-capital/jobs/stage-analyste-venture-capital-a-impact-h-f_paris_AC_dozJg6Z",
+   "published": "2026-11-19",
+   "contract": "internship",
+   "remote": "no",
+   "company_size": "63",
+   "score": 55,
+   "why": [
+    "poste proche (venture)",
+    "format : stage",
+    "profil : veille, conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "wttj-cff59978-a3c1-4c72-a27f-0c6eea8ed8ca": {
+   "id": "wttj-cff59978-a3c1-4c72-a27f-0c6eea8ed8ca",
+   "source": "WTTJ",
+   "title": "Intern/Apprentice - Strategic Finance & Corporate Development ",
+   "company": "Whitelab Genomics",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/whitelab-genomics/jobs/intern-apprentice-strategic-finance-corporate-development_paris",
+   "published": "2026-11-19",
+   "contract": "apprenticeship",
+   "remote": "partial",
+   "company_size": "52",
+   "score": 80,
+   "why": [
+    "poste proche (corporate development)",
+    "format : stage, temps partiel, alternance",
+    "profil : market research, intelligence artificielle, partnerships, consulting"
+   ],
+   "formats": [
+    "internship",
+    "part_time",
+    "alternance"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "li-4492229440": {
+   "id": "li-4492229440",
+   "source": "LinkedIn",
+   "title": "President",
+   "company": "Nexora Business School International",
+   "location": "Ville de Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/president-at-nexora-business-school-international-4492229440",
+   "published": "2026-11-19",
+   "contract": "Freelance / contrat",
+   "remote": "",
+   "company_size": "",
+   "score": 25,
+   "why": [
+    "format : freelance",
+    "profil : business school"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "li-4492161782": {
+   "id": "li-4492161782",
+   "source": "LinkedIn",
+   "title": "Operations Associate – Espagne",
+   "company": "Protected.eu",
+   "location": "Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/operations-associate-%E2%80%93-espagne-at-protected-eu-4492161782",
+   "published": "2026-11-02",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste proche (operations)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "li-4492169480": {
+   "id": "li-4492169480",
+   "source": "LinkedIn",
+   "title": "Business Operations Manager",
+   "company": "DADOV Paris",
+   "location": "Ville de Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/business-operations-manager-at-dadov-paris-4492169480",
+   "published": "2026-11-19",
+   "contract": "Temporaire",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 25,
+   "why": [
+    "poste cible (business operations)",
+    "intitulé plutôt senior"
+   ],
+   "formats": [],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "li-4492198424": {
+   "id": "li-4492198424",
+   "source": "LinkedIn",
+   "title": "Consultant.e junior Stratégie & Innovation - secteur public",
+   "company": "IMPULSE PARTNERS - A FAST LANE FOR INNOVATION",
+   "location": "Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/consultant-e-junior-strat%C3%A9gie-innovation-secteur-public-at-impulse-partners-a-fast-lane-for-innovation-4492198424",
+   "published": "2026-11-19",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste proche (stratégie)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
+  },
+  "li-4492507241": {
+   "id": "li-4492507241",
+   "source": "LinkedIn",
+   "title": "Consultant·e junior Stratégie & Innovation - Secteurs Énergie, Industrie & Environnement",
+   "company": "IMPULSE PARTNERS - A FAST LANE FOR INNOVATION",
+   "location": "Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/consultant%C2%B7e-junior-strat%C3%A9gie-innovation-secteurs-%C3%A9nergie-industrie-environnement-at-impulse-partners-a-fast-lane-for-innovation-4492507241",
+   "published": "2026-11-19",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste proche (stratégie)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "alt_urls": []
   }
  },
  "runs": [
@@ -11447,6 +11919,18 @@
    "sources": {
     "wttj": 1862,
     "linkedin": 1190,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-19 22:49 UTC",
+   "raw": 3061,
+   "kept": 754,
+   "new": 18,
+   "sources": {
+    "wttj": 1881,
+    "linkedin": 1180,
     "ats": 0,
     "rss": 0
    }
