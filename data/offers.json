@@ -5299,14 +5299,17 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-at-agora-talent-4484324503",
    "published": "2026-11-05",
-   "contract": "Temporaire",
+   "contract": "Freelance / contrat",
    "remote": "",
    "company_size": "",
-   "score": 40,
+   "score": 60,
    "why": [
-    "poste cible (chief of staff)"
+    "poste cible (chief of staff)",
+    "format : freelance"
    ],
-   "formats": [],
+   "formats": [
+    "freelance"
+   ],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-13",
    "alt_urls": []
@@ -5364,14 +5367,17 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-4489259943",
    "published": "2026-11-12",
-   "contract": "Temporaire",
+   "contract": "Freelance / contrat",
    "remote": "",
    "company_size": "",
-   "score": 40,
+   "score": 60,
    "why": [
-    "poste cible (chief of staff)"
+    "poste cible (chief of staff)",
+    "format : freelance"
    ],
-   "formats": [],
+   "formats": [
+    "freelance"
+   ],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-13",
    "alt_urls": []
@@ -5864,16 +5870,16 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/consultant-exp%C3%A9riment%C3%A9-en-strat%C3%A9gie-op%C3%A9rationnelle-%E2%80%93-secteur-assurance-f-h-at-pwc-france-4479009000",
    "published": "2026-11-04",
-   "contract": "Freelance / contrat",
+   "contract": "Temps partiel",
    "remote": "fulltime",
    "company_size": "",
-   "score": 40,
+   "score": 35,
    "why": [
     "poste proche (stratégie)",
-    "format : freelance"
+    "format : temps partiel"
    ],
    "formats": [
-    "freelance"
+    "part_time"
    ],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-13",
@@ -6096,16 +6102,16 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/strategy-transformation-analyst-at-culligan-france-4479337951",
    "published": "2026-11-09",
-   "contract": "Freelance / contrat",
+   "contract": "Temps partiel",
    "remote": "fulltime",
    "company_size": "",
-   "score": 40,
+   "score": 35,
    "why": [
     "poste proche (strategy)",
-    "format : freelance"
+    "format : temps partiel"
    ],
    "formats": [
-    "freelance"
+    "part_time"
    ],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-13",
@@ -6267,7 +6273,7 @@
    "url": "https://fr.linkedin.com/jobs/view/stage-bras-droit-ceo-sym-lab-at-sym-lab-4486838853",
    "published": "2026-11-03",
    "contract": "Temporaire",
-   "remote": "fulltime",
+   "remote": "",
    "company_size": "",
    "score": 55,
    "why": [
@@ -6547,16 +6553,16 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/business-analyst-tech-ai-at-mckinsey-company-4465084460",
    "published": "2026-11-13",
-   "contract": "Freelance / contrat",
+   "contract": "Temps partiel",
    "remote": "fulltime",
    "company_size": "",
-   "score": 40,
+   "score": 35,
    "why": [
     "poste proche (business analyst)",
-    "format : freelance"
+    "format : temps partiel"
    ],
    "formats": [
-    "freelance"
+    "part_time"
    ],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-13",
@@ -6830,16 +6836,16 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/strategy-and-transformation-analyst-at-europcar-mobility-group-4490774477",
    "published": "2026-11-13",
-   "contract": "Freelance / contrat",
+   "contract": "Temps partiel",
    "remote": "fulltime",
    "company_size": "",
-   "score": 40,
+   "score": 35,
    "why": [
     "poste proche (strategy)",
-    "format : freelance"
+    "format : temps partiel"
    ],
    "formats": [
-    "freelance"
+    "part_time"
    ],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-14",
@@ -8194,17 +8200,14 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/founder%E2%80%99s-associate-h-f-at-samaya-4491263671",
    "published": "2026-11-15",
-   "contract": "Freelance / contrat",
+   "contract": "Temporaire",
    "remote": "fulltime",
    "company_size": "",
-   "score": 60,
+   "score": 40,
    "why": [
-    "poste cible (founders associate)",
-    "format : freelance"
+    "poste cible (founders associate)"
    ],
-   "formats": [
-    "freelance"
-   ],
+   "formats": [],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-16",
    "alt_urls": []
@@ -8979,16 +8982,16 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/junior-consultant-en-strat%C3%A9gie-et-innovation-d%C3%A9fense-et-a%C3%A9rospatiale-at-starburst-4490944691",
    "published": "2026-11-16",
-   "contract": "Freelance / contrat",
+   "contract": "Temps partiel",
    "remote": "fulltime",
    "company_size": "",
-   "score": 40,
+   "score": 35,
    "why": [
     "poste proche (stratégie)",
-    "format : freelance"
+    "format : temps partiel"
    ],
    "formats": [
-    "freelance"
+    "part_time"
    ],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-16",
@@ -10432,7 +10435,7 @@
    "formats": [
     "internship"
    ],
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-21",
    "first_seen": "2026-11-18",
    "alt_urls": []
   },
@@ -10469,16 +10472,16 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/analyste-strat%C3%A9gie-d%C3%A9veloppement-at-avril-4490882151",
    "published": "2026-11-18",
-   "contract": "Freelance / contrat",
+   "contract": "Temps partiel",
    "remote": "fulltime",
    "company_size": "",
-   "score": 40,
+   "score": 35,
    "why": [
     "poste proche (stratégie)",
-    "format : freelance"
+    "format : temps partiel"
    ],
    "formats": [
-    "freelance"
+    "part_time"
    ],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-18",
@@ -10493,16 +10496,16 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/analyste-strat%C3%A9gie-h-f-at-hello-watt-4491453808",
    "published": "2026-11-18",
-   "contract": "Freelance / contrat",
+   "contract": "Temps partiel",
    "remote": "fulltime",
    "company_size": "",
-   "score": 40,
+   "score": 35,
    "why": [
     "poste proche (stratégie)",
-    "format : freelance"
+    "format : temps partiel"
    ],
    "formats": [
-    "freelance"
+    "part_time"
    ],
    "last_seen": "2026-11-21",
    "first_seen": "2026-11-18",
@@ -12777,6 +12780,18 @@
    "raw": 3066,
    "kept": 761,
    "new": 7,
+   "sources": {
+    "wttj": 1906,
+    "linkedin": 1160,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-21 21:20 UTC",
+   "raw": 3066,
+   "kept": 758,
+   "new": 0,
    "sources": {
     "wttj": 1906,
     "linkedin": 1160,
