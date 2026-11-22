@@ -737,7 +737,7 @@
    "source": "WTTJ",
    "title": "VC Associate Europe / Benelux focus",
    "company": "XAnge",
-   "location": "Paris, Brussels",
+   "location": "Brussels, Paris",
    "countries": [
     "BE",
     "FR"
@@ -5299,17 +5299,14 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-at-agora-talent-4484324503",
    "published": "2026-11-05",
-   "contract": "Freelance / contrat",
+   "contract": "Temporaire",
    "remote": "",
    "company_size": "",
-   "score": 60,
+   "score": 40,
    "why": [
-    "poste cible (chief of staff)",
-    "format : freelance"
+    "poste cible (chief of staff)"
    ],
-   "formats": [
-    "freelance"
-   ],
+   "formats": [],
    "last_seen": "2026-11-22",
    "first_seen": "2026-11-13",
    "alt_urls": []
@@ -5367,17 +5364,14 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-4489259943",
    "published": "2026-11-12",
-   "contract": "Freelance / contrat",
+   "contract": "Temporaire",
    "remote": "",
    "company_size": "",
-   "score": 60,
+   "score": 40,
    "why": [
-    "poste cible (chief of staff)",
-    "format : freelance"
+    "poste cible (chief of staff)"
    ],
-   "formats": [
-    "freelance"
-   ],
+   "formats": [],
    "last_seen": "2026-11-22",
    "first_seen": "2026-11-13",
    "alt_urls": []
@@ -6871,7 +6865,7 @@
    "formats": [
     "internship"
    ],
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-22",
    "first_seen": "2026-11-14",
    "alt_urls": []
   },
@@ -8200,17 +8194,14 @@
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/founder%E2%80%99s-associate-h-f-at-samaya-4491263671",
    "published": "2026-11-15",
-   "contract": "Freelance / contrat",
+   "contract": "Temporaire",
    "remote": "fulltime",
    "company_size": "",
-   "score": 60,
+   "score": 40,
    "why": [
-    "poste cible (founders associate)",
-    "format : freelance"
+    "poste cible (founders associate)"
    ],
-   "formats": [
-    "freelance"
-   ],
+   "formats": [],
    "last_seen": "2026-11-22",
    "first_seen": "2026-11-16",
    "alt_urls": []
@@ -13052,6 +13043,18 @@
    "sources": {
     "wttj": 1913,
     "linkedin": 1140,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-22 21:24 UTC",
+   "raw": 3073,
+   "kept": 763,
+   "new": 0,
+   "sources": {
+    "wttj": 1913,
+    "linkedin": 1160,
     "ats": 0,
     "rss": 0
    }
