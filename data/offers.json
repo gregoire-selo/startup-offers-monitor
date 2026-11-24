@@ -311,15 +311,15 @@
     "FR"
    ],
    "url": "https://www.welcometothejungle.com/fr/companies/adveris/jobs/stage-bras-droit_paris",
-   "published": "2026-11-16",
+   "published": "2026-11-24",
    "contract": "internship",
    "remote": "punctual",
    "company_size": "70",
-   "score": 60,
+   "score": 65,
    "why": [
     "poste cible (bras droit)",
     "format : stage",
-    "profil : école de commerce"
+    "profil : école de commerce, conseil"
    ],
    "formats": [
     "internship"
@@ -737,7 +737,7 @@
    "source": "WTTJ",
    "title": "VC Associate Europe / Benelux focus",
    "company": "XAnge",
-   "location": "Paris, Brussels",
+   "location": "Brussels, Paris",
    "countries": [
     "BE",
     "FR"
@@ -1147,7 +1147,7 @@
    "published": "2026-11-09",
    "contract": "internship",
    "remote": "no",
-   "company_size": "150",
+   "company_size": "162",
    "score": 40,
    "why": [
     "poste proche (operations)",
@@ -6854,9 +6854,9 @@
    "location": "Paris",
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/growth-strategy-data-analyst-intern-m-f-n-at-hellofresh-4384325686",
-   "published": "2026-11-02",
+   "published": "2026-11-24",
    "contract": "Temporaire",
-   "remote": "",
+   "remote": "fulltime",
    "company_size": "",
    "score": 35,
    "why": [
@@ -6866,7 +6866,7 @@
    "formats": [
     "internship"
    ],
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-24",
    "first_seen": "2026-11-14",
    "alt_urls": []
   },
@@ -9984,7 +9984,7 @@
    "formats": [
     "internship"
    ],
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "first_seen": "2026-11-17",
    "alt_urls": []
   },
@@ -11744,7 +11744,7 @@
    "url": "https://fr.linkedin.com/jobs/view/consultant%C2%B7e-junior-strat%C3%A9gie-innovation-secteurs-%C3%A9nergie-industrie-environnement-at-impulse-partners-a-fast-lane-for-innovation-4492507241",
    "published": "2026-11-19",
    "contract": "Freelance / contrat",
-   "remote": "fulltime",
+   "remote": "",
    "company_size": "",
    "score": 40,
    "why": [
@@ -13160,7 +13160,7 @@
    "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-h-f-at-leonar-4493599283",
    "published": "2026-11-23",
    "contract": "Temporaire",
-   "remote": "fulltime",
+   "remote": "",
    "company_size": "",
    "score": 40,
    "why": [
@@ -13392,6 +13392,413 @@
    "formats": [
     "internship",
     "part_time"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "wttj-572aeafb-ac4f-4de6-aa35-6bcff6e703a9": {
+   "id": "wttj-572aeafb-ac4f-4de6-aa35-6bcff6e703a9",
+   "source": "WTTJ",
+   "title": "Consultant(e) Stratégie et Transformation - Banque de Détail ",
+   "company": "Julhiet Sterwen",
+   "location": "Neuilly-sur-Seine",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/julhiet-sterwen/jobs/consultant-strategie-et-transformation-banque-de-detail_neuilly-sur-seine",
+   "published": "2026-11-05",
+   "contract": "full_time",
+   "remote": "unknown",
+   "company_size": "750",
+   "score": 50,
+   "why": [
+    "poste proche (stratégie)",
+    "format : temps partiel",
+    "profil : board, conseil, consulting"
+   ],
+   "formats": [
+    "part_time"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "wttj-df0d0e2f-70ad-404c-b81b-585b839e8ef6": {
+   "id": "wttj-df0d0e2f-70ad-404c-b81b-585b839e8ef6",
+   "source": "WTTJ",
+   "title": "Stage Business Developper AI & Data (Paris)",
+   "company": "MP DATA",
+   "location": "Boulogne-Billancourt",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/mp-data/jobs/stage-business-developper-ai-data-paris_boulogne-billancourt",
+   "published": "2026-11-24",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "160",
+   "score": 35,
+   "why": [
+    "format : stage",
+    "profil : intelligence artificielle, école de commerce, conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "wttj-bdea43c8-4401-48c2-a157-84c15e15fba4": {
+   "id": "wttj-bdea43c8-4401-48c2-a157-84c15e15fba4",
+   "source": "WTTJ",
+   "title": "Stage assistant direction commerciale grands comptes F/H",
+   "company": "Bouygues Telecom",
+   "location": "Boulogne-Billancourt",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/bouygues-telecom/jobs/stage-assistant-direction-commerciale-grands-comptes-f-h_boulogne-billancourt_BT_GblWrVA",
+   "published": "2026-11-24",
+   "contract": "internship",
+   "remote": "unknown",
+   "company_size": "10700",
+   "score": 40,
+   "why": [
+    "format : stage, temps partiel",
+    "profil : conseil, consulting"
+   ],
+   "formats": [
+    "internship",
+    "part_time"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "wttj-875f5eb1-fa8f-4019-8216-1711ad06ea9e": {
+   "id": "wttj-875f5eb1-fa8f-4019-8216-1711ad06ea9e",
+   "source": "WTTJ",
+   "title": "Consultant technico-fonctionnel MES expérimenté F/H",
+   "company": "Accenture France",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/accenture-france/jobs/consultant-technico-fonctionnel-mes-f-h_paris",
+   "published": "2026-11-24",
+   "contract": "full_time",
+   "remote": "punctual",
+   "company_size": "750000",
+   "score": 35,
+   "why": [
+    "format : temps partiel, alternance",
+    "profil : intelligence artificielle, conseil, consulting"
+   ],
+   "formats": [
+    "part_time",
+    "alternance"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "wttj-237a2900-2b03-414d-b472-175967a23524": {
+   "id": "wttj-237a2900-2b03-414d-b472-175967a23524",
+   "source": "WTTJ",
+   "title": "Stage - Assistant(e) Chef de projet RSE",
+   "company": "Burger King France",
+   "location": "Clichy",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/burger-king-1/jobs/stage-assistant-chef-de-projet-rse_clichy_BKF_YxXzD2W",
+   "published": "2026-11-17",
+   "contract": "internship",
+   "remote": "unknown",
+   "company_size": "30000",
+   "score": 55,
+   "why": [
+    "poste proche (chef de projet)",
+    "format : stage",
+    "démarrage début 2027 / ASAP",
+    "profil : conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "wttj-3bd2649f-4c23-4b1c-a171-359b9db2c860": {
+   "id": "wttj-3bd2649f-4c23-4b1c-a171-359b9db2c860",
+   "source": "WTTJ",
+   "title": "Analyste French Touch capital F/H",
+   "company": "Bpifrance",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/bpi-france-digital/jobs/analyste-french-touch-capital-f-h_paris-9e_BPIFR_O6YdVY",
+   "published": "2026-11-24",
+   "contract": "internship",
+   "remote": "partial",
+   "company_size": "4000",
+   "score": 30,
+   "why": [
+    "format : stage",
+    "profil : veille, école de commerce, conseil"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "wttj-eb5879c4-0566-4ba8-a4ad-8cbb9bf008b3": {
+   "id": "wttj-eb5879c4-0566-4ba8-a4ad-8cbb9bf008b3",
+   "source": "WTTJ",
+   "title": "Stage Analyst M&A - Juillet 2027",
+   "company": "Avolta",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/avolta-partners/jobs/stage-analyst-m-a-juillet-2027_paris",
+   "published": "2026-11-24",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "",
+   "score": 30,
+   "why": [
+    "format : stage",
+    "démarrage été/automne 2027",
+    "profil : veille, école de commerce, conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "wttj-68db8910-cd5e-4d8b-a5f3-8d2a6764e9a1": {
+   "id": "wttj-68db8910-cd5e-4d8b-a5f3-8d2a6764e9a1",
+   "source": "WTTJ",
+   "title": "Strategy Consultant  IT M&A  (H/F)",
+   "company": "Accenture France",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/accenture-france/jobs/strategy-consultant-it-m-a-h-f_paris_AF_9OP5Gm0",
+   "published": "2026-11-24",
+   "contract": "full_time",
+   "remote": "unknown",
+   "company_size": "750000",
+   "score": 45,
+   "why": [
+    "poste proche (strategy)",
+    "format : temps partiel",
+    "profil : conseil, consulting"
+   ],
+   "formats": [
+    "part_time"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "wttj-3cbe31b8-f7aa-4302-b20f-e6e32db77fb8": {
+   "id": "wttj-3cbe31b8-f7aa-4302-b20f-e6e32db77fb8",
+   "source": "WTTJ",
+   "title": "Stage – Chargé(e) d’études marketing",
+   "company": "YouGov",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/yougov/jobs/stage-charge-d-etudes-marketing_paris",
+   "published": "2026-11-24",
+   "contract": "internship",
+   "remote": "partial",
+   "company_size": "46",
+   "score": 45,
+   "why": [
+    "format : stage, temps partiel",
+    "profil : market research, études de marché, école de commerce"
+   ],
+   "formats": [
+    "internship",
+    "part_time"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "li-4494324391": {
+   "id": "li-4494324391",
+   "source": "LinkedIn",
+   "title": "Chief of Staff",
+   "company": "Anonyme",
+   "location": "Paris et périphérie",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-at-anonyme-4494324391",
+   "published": "2026-11-24",
+   "contract": "Temporaire",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste cible (chief of staff)"
+   ],
+   "formats": [],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "li-4494158466": {
+   "id": "li-4494158466",
+   "source": "LinkedIn",
+   "title": "Chief of Staff - CDI - Theodo France - Paris",
+   "company": "Theodo",
+   "location": "Paris et périphérie",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-cdi-theodo-france-paris-at-theodo-4494158466",
+   "published": "2026-11-24",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 60,
+   "why": [
+    "poste cible (chief of staff)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "li-4493984051": {
+   "id": "li-4493984051",
+   "source": "LinkedIn",
+   "title": "Responsable Opérations et Stratégie F/H",
+   "company": "Walter Learning",
+   "location": "Marseille",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/responsable-op%C3%A9rations-et-strat%C3%A9gie-f-h-at-walter-learning-4493984051",
+   "published": "2026-11-24",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste proche (stratégie)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "li-4494158127": {
+   "id": "li-4494158127",
+   "source": "LinkedIn",
+   "title": "Bras droit du CEO (Stage)",
+   "company": "CROWN Procurement",
+   "location": "Ville de Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/bras-droit-du-ceo-stage-at-crown-procurement-4494158127",
+   "published": "2026-11-24",
+   "contract": "Temporaire",
+   "remote": "",
+   "company_size": "",
+   "score": 55,
+   "why": [
+    "poste cible (bras droit)",
+    "format : stage"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "li-4493729324": {
+   "id": "li-4493729324",
+   "source": "LinkedIn",
+   "title": "Analyste Stratégie - Stage H/F",
+   "company": "Quipment",
+   "location": "Nancy",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/analyste-strat%C3%A9gie-stage-h-f-at-quipment-4493729324",
+   "published": "2026-11-23",
+   "contract": "Temporaire",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 35,
+   "why": [
+    "poste proche (stratégie)",
+    "format : stage"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "li-4494164705": {
+   "id": "li-4494164705",
+   "source": "LinkedIn",
+   "title": "Corporate Development Leader (m/w/d)",
+   "company": "Air Liquide Healthcare",
+   "location": "Bagneux",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/corporate-development-leader-m-w-d-at-air-liquide-healthcare-4494164705",
+   "published": "2026-11-24",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste proche (corporate development)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "alt_urls": []
+  },
+  "li-4494365871": {
+   "id": "li-4494365871",
+   "source": "LinkedIn",
+   "title": "Junior - Consultant en stratégie et innovation - Défense et Aérospatiale",
+   "company": "Starburst",
+   "location": "Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/junior-consultant-en-strat%C3%A9gie-et-innovation-d%C3%A9fense-et-a%C3%A9rospatiale-at-starburst-4494365871",
+   "published": "2026-11-24",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste proche (stratégie)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
    ],
    "last_seen": "2026-11-24",
    "first_seen": "2026-11-24",
@@ -13668,6 +14075,18 @@
    "sources": {
     "wttj": 1882,
     "linkedin": 1180,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-24 17:03 UTC",
+   "raw": 3023,
+   "kept": 683,
+   "new": 16,
+   "sources": {
+    "wttj": 1883,
+    "linkedin": 1140,
     "ats": 0,
     "rss": 0
    }
