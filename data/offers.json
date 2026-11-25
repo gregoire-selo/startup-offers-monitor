@@ -5373,7 +5373,7 @@
     "poste cible (chief of staff)"
    ],
    "formats": [],
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-25",
    "first_seen": "2026-11-13",
    "alt_urls": []
   },
@@ -6012,7 +6012,7 @@
    "formats": [
     "freelance"
    ],
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-25",
    "first_seen": "2026-11-13",
    "alt_urls": []
   },
@@ -8843,7 +8843,7 @@
    "formats": [
     "freelance"
    ],
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-25",
    "first_seen": "2026-11-16",
    "alt_urls": []
   },
@@ -11744,7 +11744,7 @@
    "url": "https://fr.linkedin.com/jobs/view/consultant%C2%B7e-junior-strat%C3%A9gie-innovation-secteurs-%C3%A9nergie-industrie-environnement-at-impulse-partners-a-fast-lane-for-innovation-4492507241",
    "published": "2026-11-19",
    "contract": "Freelance / contrat",
-   "remote": "fulltime",
+   "remote": "",
    "company_size": "",
    "score": 40,
    "why": [
@@ -13890,7 +13890,7 @@
    "url": "https://fr.linkedin.com/jobs/view/founders-associate-at-lucis-yc-p25-4494423661",
    "published": "2026-11-24",
    "contract": "Temporaire",
-   "remote": "",
+   "remote": "fulltime",
    "company_size": "",
    "score": 45,
    "why": [
@@ -14136,6 +14136,137 @@
    "score": 40,
    "why": [
     "poste proche (strategy)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "wttj-05feea0f-c7eb-4617-ba44-ccae9e960679": {
+   "id": "wttj-05feea0f-c7eb-4617-ba44-ccae9e960679",
+   "source": "WTTJ",
+   "title": "Acquisition Operations",
+   "company": "Zefir",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/zefir/jobs/acquisition-ops_paris",
+   "published": "2026-11-23",
+   "contract": "full_time",
+   "remote": "punctual",
+   "company_size": "70",
+   "score": 30,
+   "why": [
+    "poste proche (operations)",
+    "profil : intelligence artificielle, consulting"
+   ],
+   "formats": [],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "wttj-fc3fd44c-db38-4700-966c-3eef1e79340d": {
+   "id": "wttj-fc3fd44c-db38-4700-966c-3eef1e79340d",
+   "source": "WTTJ",
+   "title": "Alternance – Chargé·e de mission RSE H/F",
+   "company": "eXalt",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/exalt/jobs/alternance-charge-e-de-mission-rse-h-f_paris",
+   "published": "2026-11-25",
+   "contract": "apprenticeship",
+   "remote": "punctual",
+   "company_size": "1500",
+   "score": 65,
+   "why": [
+    "poste proche (chargée de mission)",
+    "format : stage, alternance",
+    "démarrage début 2027 / ASAP",
+    "profil : intelligence artificielle, conseil, consulting"
+   ],
+   "formats": [
+    "internship",
+    "alternance"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "wttj-2e21dd95-d825-43f6-84ec-b7eff85772db": {
+   "id": "wttj-2e21dd95-d825-43f6-84ec-b7eff85772db",
+   "source": "WTTJ",
+   "title": "Stage Chargé(e) d'études quantitatives",
+   "company": "Audirep",
+   "location": "Boulogne-Billancourt",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/audirep/jobs/stage-charge-d-etudes-quantitatives_boulogne-billancourt",
+   "published": "2026-11-25",
+   "contract": "internship",
+   "remote": "punctual",
+   "company_size": "35",
+   "score": 35,
+   "why": [
+    "format : stage",
+    "profil : études de marché, école de commerce, conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "wttj-6c4e91a4-0ab0-4c10-9a60-d80ba817a302": {
+   "id": "wttj-6c4e91a4-0ab0-4c10-9a60-d80ba817a302",
+   "source": "WTTJ",
+   "title": "Consultant·e Artificial Intelligence for Business Transformation – Jeune diplômé·e (H/F)",
+   "company": "Wavestone",
+   "location": "Puteaux",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/wavestone/jobs/consultant-e-artificial-intelligence-for-business-transformation-jeune-diplome-e-h-f_puteaux_WAVES_qylo7kg",
+   "published": "2026-11-25",
+   "contract": "full_time",
+   "remote": "unknown",
+   "company_size": "6111",
+   "score": 50,
+   "why": [
+    "format : stage, temps partiel, alternance",
+    "profil : intelligence artificielle, conseil, consulting"
+   ],
+   "formats": [
+    "internship",
+    "part_time",
+    "alternance"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "li-4494659892": {
+   "id": "li-4494659892",
+   "source": "LinkedIn",
+   "title": "Corporate Development Leader (m/w/d)",
+   "company": "Air Liquide Healthcare",
+   "location": "Bagneux",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/corporate-development-leader-m-w-d-at-air-liquide-healthcare-4494659892",
+   "published": "2026-11-25",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste proche (corporate development)",
     "format : freelance"
    ],
    "formats": [
@@ -14451,6 +14582,18 @@
    "new": 10,
    "sources": {
     "wttj": 1872,
+    "linkedin": 1200,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-25 23:53 UTC",
+   "raw": 3063,
+   "kept": 741,
+   "new": 5,
+   "sources": {
+    "wttj": 1863,
     "linkedin": 1200,
     "ats": 0,
     "rss": 0
