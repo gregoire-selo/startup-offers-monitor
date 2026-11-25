@@ -338,7 +338,7 @@
     "FR"
    ],
    "url": "https://www.welcometothejungle.com/fr/companies/walter-learning/jobs/bras-droit-du-ceo-en-stage-f-h_paris_WL_0M8w920",
-   "published": "2026-11-17",
+   "published": "2026-11-25",
    "contract": "internship",
    "remote": "no",
    "company_size": "88",
@@ -5277,7 +5277,7 @@
    "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-%E2%80%93-strategy-product-operations-cdi-at-incom-4488148455",
    "published": "2026-11-06",
    "contract": "Freelance / contrat",
-   "remote": "fulltime",
+   "remote": "",
    "company_size": "",
    "score": 60,
    "why": [
@@ -5406,7 +5406,7 @@
    "location": "Paris",
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-to-the-ceo-at-voodoo-4442473825",
-   "published": "2026-11-03",
+   "published": "2026-11-25",
    "contract": "Temporaire",
    "remote": "fulltime",
    "company_size": "",
@@ -5415,7 +5415,7 @@
     "poste cible (chief of staff)"
    ],
    "formats": [],
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "first_seen": "2026-11-13",
    "alt_urls": []
   },
@@ -5864,7 +5864,7 @@
    "location": "Neuilly-sur-Seine",
    "countries": [],
    "url": "https://fr.linkedin.com/jobs/view/consultant-exp%C3%A9riment%C3%A9-en-strat%C3%A9gie-op%C3%A9rationnelle-%E2%80%93-secteur-assurance-f-h-at-pwc-france-4479009000",
-   "published": "2026-11-04",
+   "published": "2026-11-25",
    "contract": "Freelance / contrat",
    "remote": "fulltime",
    "company_size": "",
@@ -5938,7 +5938,7 @@
    "url": "https://fr.linkedin.com/jobs/view/business-operations-performance-manager-f-h-at-addactis-4458739430",
    "published": "2026-11-06",
    "contract": "Temporaire",
-   "remote": "",
+   "remote": "fulltime",
    "company_size": "",
    "score": 25,
    "why": [
@@ -9973,7 +9973,7 @@
    "url": "https://fr.linkedin.com/jobs/view/strategy-consulting-intern-tmt-m-f-d-at-altman-solon-4296080452",
    "published": "2026-11-07",
    "contract": "Temporaire",
-   "remote": "",
+   "remote": "fulltime",
    "company_size": "",
    "score": 40,
    "why": [
@@ -9984,7 +9984,7 @@
    "formats": [
     "internship"
    ],
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "first_seen": "2026-11-17",
    "alt_urls": []
   },
@@ -10570,11 +10570,11 @@
    "contract": "internship",
    "remote": "partial",
    "company_size": "4000",
-   "score": 60,
+   "score": 55,
    "why": [
     "poste proche (venture)",
     "format : stage",
-    "profil : études de marché, école de commerce, conseil, consulting"
+    "profil : études de marché, école de commerce, conseil"
    ],
    "formats": [
     "internship"
@@ -11744,7 +11744,7 @@
    "url": "https://fr.linkedin.com/jobs/view/consultant%C2%B7e-junior-strat%C3%A9gie-innovation-secteurs-%C3%A9nergie-industrie-environnement-at-impulse-partners-a-fast-lane-for-innovation-4492507241",
    "published": "2026-11-19",
    "contract": "Freelance / contrat",
-   "remote": "",
+   "remote": "fulltime",
    "company_size": "",
    "score": 40,
    "why": [
@@ -13535,7 +13535,7 @@
   "wttj-3bd2649f-4c23-4b1c-a171-359b9db2c860": {
    "id": "wttj-3bd2649f-4c23-4b1c-a171-359b9db2c860",
    "source": "WTTJ",
-   "title": "Analyste French Touch capital F/H",
+   "title": "Analyste VC French Touch capital F/H",
    "company": "Bpifrance",
    "location": "Paris",
    "countries": [
@@ -13752,7 +13752,7 @@
    "formats": [
     "internship"
    ],
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "first_seen": "2026-11-24",
    "alt_urls": []
   },
@@ -13897,6 +13897,250 @@
     "poste cible (founders associate)"
    ],
    "formats": [],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "wttj-e6af1f3a-3134-47df-8030-460ca5e17699": {
+   "id": "wttj-e6af1f3a-3134-47df-8030-460ca5e17699",
+   "source": "WTTJ",
+   "title": "Chief of Staff - CDI - Theodo Data & AI - Paris",
+   "company": "Theodo Data & AI",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/theododataia/jobs/chief-of-staff-cdi-theodo-data-ai-paris_paris",
+   "published": "2026-11-25",
+   "contract": "full_time",
+   "remote": "no",
+   "company_size": "70",
+   "score": 30,
+   "why": [
+    "poste cible (chief of staff)",
+    "CDI/temps plein seulement",
+    "profil : intelligence artificielle, conseil, consulting"
+   ],
+   "formats": [],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "wttj-19aab97a-75c3-4242-9121-d1389100d5e4": {
+   "id": "wttj-19aab97a-75c3-4242-9121-d1389100d5e4",
+   "source": "WTTJ",
+   "title": "Product Builder IA - Bras droit du CEO, futur cofounder F/H",
+   "company": "Stride-up",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/stride-up/jobs/product-builder-ia-bras-droit-du-ceo-futur-cofounder-f-h_paris",
+   "published": "2026-11-25",
+   "contract": "full_time",
+   "remote": "partial",
+   "company_size": "50",
+   "score": 50,
+   "why": [
+    "poste cible (bras droit)",
+    "profil : conseil"
+   ],
+   "formats": [],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "wttj-900be182-ea1f-43ce-b8d0-5fce3a06a001": {
+   "id": "wttj-900be182-ea1f-43ce-b8d0-5fce3a06a001",
+   "source": "WTTJ",
+   "title": "Chargé Mission ESG - Pilotage Réduction Émissions Carbone Du Groupe",
+   "company": "Société Générale",
+   "location": "Puteaux",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/societe-generale/jobs/charge-mission-esg-pilotage-reduction-emissions-carbone-du-groupe_puteaux_SG_ArMPb5R",
+   "published": "2026-11-13",
+   "contract": "internship",
+   "remote": "partial",
+   "company_size": "110000",
+   "score": 30,
+   "why": [
+    "format : stage",
+    "profil : board, conseil, consulting"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "wttj-505bf0fc-582c-4266-b518-0675dd8f184a": {
+   "id": "wttj-505bf0fc-582c-4266-b518-0675dd8f184a",
+   "source": "WTTJ",
+   "title": "Expert Editique Infor M3 temps partagé (H/F) TELETRAVAIL possible",
+   "company": "Link Consulting",
+   "location": "Toulouse",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/link-consulting/jobs/expert-editique-infor-m3-temps-partage-h-f-teletravail-possible_toulouse",
+   "published": "2026-11-25",
+   "contract": "freelance",
+   "remote": "fulltime",
+   "company_size": "80",
+   "score": 30,
+   "why": [
+    "format : freelance",
+    "profil : conseil, consulting"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "wttj-592c575d-98f7-42aa-9a78-568ae25c4215": {
+   "id": "wttj-592c575d-98f7-42aa-9a78-568ae25c4215",
+   "source": "WTTJ",
+   "title": "Analyste private equity fonds de fonds régionaux F/H",
+   "company": "Bpifrance",
+   "location": "Paris",
+   "countries": [
+    "FR"
+   ],
+   "url": "https://www.welcometothejungle.com/fr/companies/bpi-france-digital/jobs/analyste-private-equity-fonds-de-fonds-regionaux-f-h_paris-9e",
+   "published": "2026-11-25",
+   "contract": "internship",
+   "remote": "partial",
+   "company_size": "4000",
+   "score": 25,
+   "why": [
+    "format : stage",
+    "profil : école de commerce, conseil"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "li-4494651652": {
+   "id": "li-4494651652",
+   "source": "LinkedIn",
+   "title": "Chief of Staff",
+   "company": "CryptoNext Security",
+   "location": "Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-at-cryptonext-security-4494651652",
+   "published": "2026-11-25",
+   "contract": "Temporaire",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste cible (chief of staff)"
+   ],
+   "formats": [],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "li-4494610152": {
+   "id": "li-4494610152",
+   "source": "LinkedIn",
+   "title": "Chief of Staff - CDI - Theodo Data & AI - Paris",
+   "company": "Theodo",
+   "location": "Paris et périphérie",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/chief-of-staff-cdi-theodo-data-ai-paris-at-theodo-4494610152",
+   "published": "2026-11-25",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 60,
+   "why": [
+    "poste cible (chief of staff)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "li-4483036299": {
+   "id": "li-4483036299",
+   "source": "LinkedIn",
+   "title": "Intern - Chief of Staff to the Group CMO - Paris",
+   "company": "Artefact",
+   "location": "Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/intern-chief-of-staff-to-the-group-cmo-paris-at-artefact-4483036299",
+   "published": "2026-11-19",
+   "contract": "Temporaire",
+   "remote": "",
+   "company_size": "",
+   "score": 55,
+   "why": [
+    "poste cible (chief of staff)",
+    "format : stage"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "li-4492584675": {
+   "id": "li-4492584675",
+   "source": "LinkedIn",
+   "title": "Stage de fin d'études - Consultant Stratégie & Innovation H/F",
+   "company": "julhiet sterwen",
+   "location": "Neuilly-sur-Seine",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-consultant-strat%C3%A9gie-innovation-h-f-at-julhiet-sterwen-4492584675",
+   "published": "2026-11-20",
+   "contract": "Temporaire",
+   "remote": "",
+   "company_size": "",
+   "score": 35,
+   "why": [
+    "poste proche (stratégie)",
+    "format : stage"
+   ],
+   "formats": [
+    "internship"
+   ],
+   "last_seen": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "alt_urls": []
+  },
+  "li-4494600589": {
+   "id": "li-4494600589",
+   "source": "LinkedIn",
+   "title": "KERING Strategy Analyst",
+   "company": "Kering",
+   "location": "Paris",
+   "countries": [],
+   "url": "https://fr.linkedin.com/jobs/view/kering-strategy-analyst-at-kering-4494600589",
+   "published": "2026-11-25",
+   "contract": "Freelance / contrat",
+   "remote": "fulltime",
+   "company_size": "",
+   "score": 40,
+   "why": [
+    "poste proche (strategy)",
+    "format : freelance"
+   ],
+   "formats": [
+    "freelance"
+   ],
    "last_seen": "2026-11-25",
    "first_seen": "2026-11-25",
    "alt_urls": []
@@ -14196,6 +14440,18 @@
    "sources": {
     "wttj": 1874,
     "linkedin": 1150,
+    "ats": 0,
+    "rss": 0
+   }
+  },
+  {
+   "at": "2026-11-25 16:53 UTC",
+   "raw": 3072,
+   "kept": 734,
+   "new": 10,
+   "sources": {
+    "wttj": 1872,
+    "linkedin": 1200,
     "ats": 0,
     "rss": 0
    }
